@@ -29,6 +29,7 @@ public class GitTest {
                 你没事吧
             你好啊
             是
+            是单核
 
     }
 }
