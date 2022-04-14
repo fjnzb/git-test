@@ -25,6 +25,7 @@ public class GitTest {
         System.out.println("hot1 1");
         System.out.println("hot1 2");
         远程库修改
+            你好啊
 
     }
 }
