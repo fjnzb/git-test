@@ -24,6 +24,7 @@ public class GitTest {
         System.out.println("测试远程库有更新，本地库有修改但是没提交，能否拉取，测试可以直接拉取，但是要合并，并且本地库不会生成版本信息");
         System.out.println("hot1 1");
         System.out.println("hot1 2");
+        System.out.println("master 1");
         远程库修改
             你好啊
 
