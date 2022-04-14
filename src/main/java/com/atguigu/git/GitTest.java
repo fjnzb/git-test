@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("远程库版本此时高于本地库，测试push");
         System.out.println("远程库修改");
+        System.out.println("远程库再次修改");
     }
 }
