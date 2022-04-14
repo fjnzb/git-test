@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot test");
         System.out.println("push test");
+        System.out.println("远程库版本此时高于本地库，测试push");
     }
 }
