@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("本地未提交，远程库有更新，能否拉取，测试拉取会被取消");
         System.out.println("本地提交版本，此时远程库和本地库都有各自的版本，测试拉取");
         System.out.println("远程库第三次修改");
+        System.out.println("测试能否不本地提交，直接push，显示没有提交可以push");
     }
 }
